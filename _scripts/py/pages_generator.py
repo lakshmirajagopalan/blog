@@ -59,6 +59,7 @@ def get_path(dir):
 
 
 def get_categories():
+    print "*********Get all Categories*********"
     all_categories = []
     yaml = YAML()
 
@@ -97,6 +98,7 @@ def get_categories():
 
 
 def generate_category_pages(is_verbose):
+    print "*********Get all Categories Pages*********"
     categories = get_categories()
     path = get_path(CATEGORIES_DIR)
 
@@ -172,7 +174,8 @@ def generate_tag_pages(is_verbose):
 def main():
     check_py_version()
 
-    is_verbose = False
+    is_verbose = True
+
 
     if len(sys.argv) > 1:
         for arg in sys.argv:

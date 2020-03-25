@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  Variance in Scala
-categories: scala
+title: Variance in Scala
+categories: [Blogging, Scala]
 tags: [scala, functional programming, variance]
+seo:
+  date_modified: 2020-03-25 06:51:27 -0300
 ---
 
 

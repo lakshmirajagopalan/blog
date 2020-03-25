@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  Diving into Scala's Typeclasses
-categories: scala
+title: Diving into Scala's Typeclasses
+categories: [Blogging, Scala]
 tags: [scala, functional programming, typeclasses]
+seo:
+  date_modified: 2020-03-25 06:51:27 -0300
 ---
 
 

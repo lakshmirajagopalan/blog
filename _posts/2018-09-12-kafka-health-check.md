@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  Implementing a Health Check Mechanism for Kafka
-categories: scala
+title: Implementing a Health Check Mechanism for Kafka
+categories: [Blogging, Scala]
 tags: [scala, kafka, health check]
+seo:
+  date_modified: 2020-03-25 06:51:27 -0300
 ---
 
 

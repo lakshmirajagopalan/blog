@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  State Monads
-categories: scala
+title: State Monads
+categories: [Blogging, Scala]
 tags: [scala, functional programming, monad, state monad]
+seo:
+  date_modified: 2020-03-25 06:51:27 -0300
 ---
 Scala is a OOP language with full support for functional programming and beautifully mixes them together to bring the best from both the worlds.  
 
