@@ -1,0 +1,6 @@
+_site
+*.pyc
+.jekyll-cache
+GemFile.lock
+*.DS_Store
+*~
